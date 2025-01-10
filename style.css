@@ -440,6 +440,17 @@
   color: #0e0e0e;
   font-weight: 400;
   opacity: 70%;
+  margin-bottom: 32px;
+}
+
+.news_btn{
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
 }
 
 /* Donate today section start  */
