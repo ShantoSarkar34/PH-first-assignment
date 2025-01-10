@@ -289,3 +289,80 @@
 }
 
 /* Opinion section start */
+
+.opinion_main {
+  margin: 80px 0px;
+}
+
+.opinion_title {
+  color: #0e0e0e;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.opinion_table {
+  background-color: white;
+  padding: 32px;
+  border-radius: 16px;
+}
+
+.table_head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #dbdbdb;
+  padding: 24px;
+  background-color: #c6e4d6;
+}
+
+.table_h {
+  color: #0e0e0e;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.table_head2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #dbdbdb;
+  padding-left: 24px;
+}
+
+.table_head3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #dbdbdb;
+  padding-left: 24px;
+  margin-top: -1px;
+}
+
+.tb_pera {
+  font-size: 16px;
+  font-weight: 500;
+  color: #0e0e0e;
+}
+
+.btn_border {
+  border-left: 1px solid #dbdbdb;
+  padding: 24px;
+}
+
+.table_btn {
+  display: flex;
+  align-items: center;
+  padding: 10px 14px;
+  gap: 12px;
+  background-color: #c6e4d6;
+  border-radius: 4px;
+  border: 1px solid #0e0e0e;
+  cursor: pointer;
+}
+
+.table_btn .btn_text {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0e0e0e;
+}
