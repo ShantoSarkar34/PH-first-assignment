@@ -538,3 +538,63 @@
 .donate_submit_btn:hover {
   background-color: #12804d;
 }
+
+/* subscribe section start  */
+
+.sub_main {
+  margin: 80px 0;
+}
+
+.sub_content {
+  background-color: #c6e4d6;
+  padding: 80px 100px;
+  border-radius: 24px;
+}
+
+.input_or_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.sub_input_style .sub_input_num {
+  width: 78%;
+  padding: 17px 34px;
+  outline: none;
+  border: 1px solid #dbdbdb;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.submit_btn {
+  display: flex;
+  justify-content: center;
+}
+
+.sub_submit_btn {
+  padding: 17px 34px;
+  background-color: #006a50;
+  border: 1px solid #dbdbdb;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.sub_submit_btn:hover {
+  background-color: #12804d;
+}
+
+.promise {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  color: #0e0e0e;
+  opacity: 70%;
+}
