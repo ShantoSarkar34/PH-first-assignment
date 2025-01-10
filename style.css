@@ -41,6 +41,11 @@
   font-weight: 500;
 }
 
+.nav_btn:hover{
+  background-color: #006a50;
+  color: white;
+}
+
 /* banner section start  */
 
 #main_section {
@@ -86,7 +91,14 @@
   font-size: 22px;
   font-weight: 500;
   background-color: #006a50;
-  border: none;
+  border: 1px solid #006a50;
+  cursor: pointer;
+}
+
+.hero_btn:hover {
+  background-color: #c6e4d6;
+  color: #0e0e0e;
+
 }
 
 /* pillars section start  */
@@ -199,6 +211,7 @@
 
 .vision_btn1:hover {
   background-color: #548ff5b7;
+  color: #0e0e0e;
 }
 
 .vision_box2 {
@@ -220,6 +233,7 @@
 
 .vision_btn2:hover {
   background-color: #09a15dbe;
+  color: #0e0e0e;
 }
 
 .vision_box3 {
@@ -241,6 +255,7 @@
 
 .vision_btn3:hover {
   background-color: #ffc439ab;
+  color: #0e0e0e;
 }
 
 /* quote section start  */
@@ -359,12 +374,17 @@
   border-radius: 4px;
   border: 1px solid #0e0e0e;
   cursor: pointer;
+  color: #0e0e0e;
 }
 
 .table_btn .btn_text {
   font-size: 16px;
   font-weight: 700;
-  color: #0e0e0e;
+  
+}
+
+.table_btn:hover{
+  color: #09a15c;
 }
 
 /* news section start  */
