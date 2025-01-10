@@ -598,3 +598,37 @@
   color: #0e0e0e;
   opacity: 70%;
 }
+
+/* footer section start  */
+
+#footer_section {
+  background-color: white;
+  padding: 50px 160px;
+}
+
+.footer_logo {
+  font-size: 32px;
+  font-weight: 600;
+  color: #0e0e0e;
+  text-align: center;
+}
+
+.line_position {
+  display: flex;
+  justify-content: center;
+  margin: 32px 0;
+}
+
+.footer_line {
+  height: 1px;
+  width: 100%;
+  background-color: #0e0e0e;
+  opacity: 10%;
+}
+
+.footer_icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 23px;
+}
