@@ -134,3 +134,158 @@
 }
 
 /* the vision section done  */
+
+.vision_main {
+  margin-bottom: 80px;
+}
+
+.vision_title {
+  color: #0e0e0e;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.vision_sub {
+  color: #0e0e0e;
+  opacity: 70%;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+
+.vision_boxs {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.vision_box1 {
+  background-color: #d5e1f5;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.box img {
+  margin-bottom: 24px;
+}
+
+.vision_box_title {
+  color: #0e0e0e;
+  opacity: 80%;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.vision_pera {
+  color: #0e0e0e;
+  opacity: 70%;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 24px;
+}
+
+.vision_btn1 {
+  padding: 11px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: #5490f5;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vision_btn1:hover {
+  background-color: #548ff5b7;
+}
+
+.vision_box2 {
+  background-color: #c6e4d6;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.vision_btn2 {
+  padding: 11px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: #09a15c;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vision_btn2:hover {
+  background-color: #09a15dbe;
+}
+
+.vision_box3 {
+  background-color: #f7ebcf;
+  border-radius: 16px;
+  padding: 24px;
+}
+
+.vision_btn3 {
+  padding: 11px 20px;
+  border: none;
+  border-radius: 8px;
+  background-color: #ffc239;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vision_btn3:hover {
+  background-color: #ffc439ab;
+}
+
+/* quote section start  */
+
+.quote_main {
+  background: white;
+  background-repeat: no-repeat;
+  border: 1px solid #dbdbdb;
+  border-radius: 16px;
+}
+
+.quote_content {
+  background-image: url(assets/quote-bg.png);
+  background-repeat: no-repeat;
+  margin: 18px 24px;
+}
+
+.quote_top {
+  padding-top: 20px;
+}
+
+.quote_pera {
+  font-size: 16px;
+  font-weight: 400;
+  color: #0e0e0e;
+  opacity: 80%;
+  line-height: 24px;
+  margin-bottom: 12px;
+}
+
+.quote_person {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600px;
+  color: #0e0e0e;
+  opacity: 80%;
+  margin-bottom: 4px;
+}
+
+.quote_sub_pera {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #0e0e0e;
+  opacity: 70%;
+}
+
+/* Opinion section start */
